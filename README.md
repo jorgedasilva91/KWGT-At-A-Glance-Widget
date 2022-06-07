@@ -26,3 +26,5 @@ Recommendations
 • Remove battery restrictions of kwgt app & let it run in the background all the time.
 
 Credits @jorgedasilva91
+
+Get Download from Here https://t.me/modulesrepo/3400
