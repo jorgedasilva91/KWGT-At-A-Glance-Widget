@@ -1,4 +1,4 @@
-banner.jpg
+/banner.jpg
 
 At A Glance Widget • KWGT • By TeamFiles
 
