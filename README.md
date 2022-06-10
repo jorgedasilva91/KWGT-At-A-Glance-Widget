@@ -1,3 +1,5 @@
+banner.jpg
+
 At A Glance Widget • KWGT • By TeamFiles
 
 Features
