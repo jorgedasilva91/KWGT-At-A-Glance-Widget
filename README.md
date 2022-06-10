@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/jorgedasilva91/KWGT-At-A-Glance-Widget/main/banner.jpg
+![Test Image 1](https://raw.githubusercontent.com/jorgedasilva91/KWGT-At-A-Glance-Widget/main/banner.jpg)
 
 At A Glance Widget • KWGT • By TeamFiles
 
