@@ -1,4 +1,4 @@
-/banner.jpg
+https://raw.githubusercontent.com/jorgedasilva91/KWGT-At-A-Glance-Widget/main/banner.jpg
 
 At A Glance Widget • KWGT • By TeamFiles
 
