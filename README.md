@@ -27,6 +27,4 @@ Recommendations
 • In the KWGT settings there is a function about the widget refresh rate. I recommend leaving it at the default.
 • Remove battery restrictions of kwgt app & let it run in the background all the time.
 
-Credits @jorgedasilva91
-
 Get Download from Here https://t.me/modulesrepo/3400
