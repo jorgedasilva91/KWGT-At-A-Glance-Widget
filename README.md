@@ -21,6 +21,8 @@ Maker
 -- KWGT Kustom Widget Pro Key
 -- Minimum Knowledge of KWGT & how to use it, place widget on homescreen, resize widget etc.
 
+Get Free Pro from Here: https://help.kustom.rocks/i2848-cracked-free-version-of-kwgt-pro-or-klwp-pro-apk
+
 !!!Attention!!! Due to KWGT limitations, the widget may not work as expected or may delay.
 
 Recommendations
